@@ -4,7 +4,7 @@
         "priceR": 99.99,
         "rating": 4.5,
         "discount": 10,
-        "img": "https://example.com/images/wireless-headphones.jpg",
+        "img": "https://img.freepik.com/free-vector/white-product-podium-with-green-tropical-palm-leaves-golden-round-arch-green-wall_87521-3023.jpg",
         "id": 1
     },
     {
@@ -12,7 +12,7 @@
         "priceR": 699.99,
         "rating": 4.7,
         "discount": 15,
-        "img": "https://example.com/images/smartphone-x.jpg",
+        "img": "https://img.freepik.com/free-vector/white-product-podium-with-green-tropical-palm-leaves-golden-round-arch-green-wall_87521-3023.jpg",
         "id": 2
     },
     {
@@ -20,7 +20,7 @@
         "priceR": 1499.99,
         "rating": 4.8,
         "discount": 20,
-        "img": "https://example.com/images/gaming-laptop-pro.jpg",
+        "img": "https://img.freepik.com/free-vector/white-product-podium-with-green-tropical-palm-leaves-golden-round-arch-green-wall_87521-3023.jpg",
         "id": 3
     },
     {
@@ -28,7 +28,7 @@
         "priceR": 899.99,
         "rating": 4.6,
         "discount": 25,
-        "img": "https://example.com/images/4k-tv.jpg",
+        "img": "https://img.freepik.com/free-vector/white-product-podium-with-green-tropical-palm-leaves-golden-round-arch-green-wall_87521-3023.jpg",
         "id": 4
     },
     {
@@ -36,7 +36,7 @@
         "priceR": 79.99,
         "rating": 4.3,
         "discount": 5,
-        "img": "https://example.com/images/coffee-maker-deluxe.jpg",
+        "img": "https://img.freepik.com/free-vector/white-product-podium-with-green-tropical-palm-leaves-golden-round-arch-green-wall_87521-3023.jpg",
         "id": 5
     }
 ]
